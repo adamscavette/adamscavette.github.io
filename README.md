@@ -15,7 +15,6 @@
 <p>Disclaimer: <strong>The views here are my own and do not necessarily reflect those of the Federal Reserve Bank of Richmond or the Federal Reserve System.</strong> </p>
 
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
 
 
 
