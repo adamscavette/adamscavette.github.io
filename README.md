@@ -12,11 +12,11 @@
 <ul>
   <p><li>“Aerospace Place-Based Policy: The Impact of Boeing on South Carolina's Aerospace Industry.” <i>Economic Development Quarterly</i>, forthcoming.</li></p>
   
-  <li>“JUE Insight: The Labor Market Effects of Place-Based Policies: Evidence from England's Neighbourhood Renewal Fund” (with Robert Calvert Jump), <i>Journal of Urban Economics</i>, accepted.</li>
+  <p><li>“JUE Insight: The Labor Market Effects of Place-Based Policies: Evidence from England's Neighbourhood Renewal Fund” (with Robert Calvert Jump), <i>Journal of Urban Economics</i>, accepted.</li></p>
   
-  <li><a href="https://linkinghub.elsevier.com/retrieve/pii/S016604622300087X">“The Economic Impact of a Casino Monopoly: Evidence from Atlantic City"</a>, <i>Regional Science and Urban Economics</i>, 103, 2023.</li>
+  <p><li><a href="https://linkinghub.elsevier.com/retrieve/pii/S016604622300087X">“The Economic Impact of a Casino Monopoly: Evidence from Atlantic City"</a>, <i>Regional Science and Urban Economics</i>, 103, 2023.</li></p>
 
-  <li><a href="https://journals.sagepub.com/doi/10.1177/08912424231158051">“The Impact of New Jersey’s Urban Enterprise Zones on Local Employment: A Synthetic Control Approach"</a>, <i>Economic Development Quarterly</i>, 37(2), 2023, pp. 127-142.</li>
+  <p><li><a href="https://journals.sagepub.com/doi/10.1177/08912424231158051">“The Impact of New Jersey’s Urban Enterprise Zones on Local Employment: A Synthetic Control Approach"</a>, <i>Economic Development Quarterly</i>, 37(2), 2023, pp. 127-142.</li></p>
 </ul>
 
 <h2>Contact</h2>
