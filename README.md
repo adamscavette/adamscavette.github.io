@@ -12,7 +12,7 @@
 <ul>
   <p><li>“Aerospace Place-Based Policy: The Impact of Boeing on South Carolina's Aerospace Industry.” <i>Economic Development Quarterly</i>, forthcoming.</li></p>
   
-  <p><li>“JUE Insight: The Labor Market Effects of Place-Based Policies: Evidence from England's Neighbourhood Renewal Fund” (with Robert Calvert Jump), <i>Journal of Urban Economics</i>, accepted.</li></p>
+  <p><li>“JUE Insight: The Labor Market Effects of Place-Based Policies: Evidence from England's Neighbourhood Renewal Fund” (with <a href="https://www.robcalvertjump.com/">Robert Calvert Jump</a>), <i>Journal of Urban Economics</i>, accepted.</li></p>
   
   <p><li><a href="https://linkinghub.elsevier.com/retrieve/pii/S016604622300087X">“The Economic Impact of a Casino Monopoly: Evidence from Atlantic City"</a>, <i>Regional Science and Urban Economics</i>, 103, 2023.</li></p>
 
