@@ -17,6 +17,8 @@
   <p><li><a href="https://linkinghub.elsevier.com/retrieve/pii/S016604622300087X">“The Economic Impact of a Casino Monopoly: Evidence from Atlantic City"</a>, <i>Regional Science and Urban Economics</i>, 103, 2023.</li></p>
 
   <p><li><a href="https://journals.sagepub.com/doi/10.1177/08912424231158051">“The Impact of New Jersey’s Urban Enterprise Zones on Local Employment: A Synthetic Control Approach"</a>, <i>Economic Development Quarterly</i>, 37(2), 2023, pp. 127-142.</li></p>
+
+  <p><li><a href="https://journals.sagepub.com/doi/abs/10.1177/0361198118758983?journalCode=trra">“Exploiting a Natural Hub: Turning a Stopover into a Destination”</a> (with Leah Goldsberry), <i>Transportation Research Record: Journal of the Transportation Research Board</i>, 2672(23), 2018, pp. 8-14.</li></p>
 </ul>
 
 <h2>Contact</h2>
