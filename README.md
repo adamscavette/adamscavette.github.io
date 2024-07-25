@@ -7,13 +7,18 @@
 
 <p><a href="adamscavette_CV.pdf" download>CV (updated July 2024)</a> </p> <p><a href="https://scholar.google.com/citations?user=UWVskVMAAAAJ&hl=en">Google Scholar</a> </p> <p> <a href="https://ideas.repec.org/f/psc838.html">IDEAS/RePEc</a> </p>
 
+<h2>Working Papers</h2>
+
+<ul>
+<p><li><a href="https://www.richmondfed.org/-/media/RichmondFedOrg/publications/research/working_papers/2024/wp24-05.pdf">“Do Research Universities Recession Proof Their Regions? Evidence from State Flagship College Towns”</a> (with <a href="https://www.robcalvertjump.com/">Robert Calvert Jump</a>),” <i>Federal Reserve Bank of Richmond Working Paper </i>24-05.</li></p>
+</ul>
 <h2>Peer-Reviewed Publications</h2>
 
 <ul>
-  <p><li>“Aerospace Place-Based Policy: The Impact of Boeing on South Carolina's Aerospace Industry.” <i>Economic Development Quarterly</i>, forthcoming.</li></p>
-  
   <p><li>“JUE Insight: The Labor Market Effects of Place-Based Policies: Evidence from England's Neighbourhood Renewal Fund” (with <a href="https://www.robcalvertjump.com/">Robert Calvert Jump</a>), <i>Journal of Urban Economics</i>, accepted.</li></p>
   
+  <p><li>“Aerospace Place-Based Policy: The Impact of Boeing on South Carolina's Aerospace Industry”, <i>Economic Development Quarterly</i>, forthcoming.</li></p>
+
   <p><li><a href="https://linkinghub.elsevier.com/retrieve/pii/S016604622300087X">“The Economic Impact of a Casino Monopoly: Evidence from Atlantic City"</a>, <i>Regional Science and Urban Economics</i>, 103, 2023.</li></p>
 
   <p><li><a href="https://journals.sagepub.com/doi/10.1177/08912424231158051">“The Impact of New Jersey’s Urban Enterprise Zones on Local Employment: A Synthetic Control Approach"</a>, <i>Economic Development Quarterly</i>, 37(2), 2023, pp. 127-142.</li></p>
