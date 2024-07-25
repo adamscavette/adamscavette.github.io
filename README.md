@@ -16,7 +16,7 @@
   
   <li><a href="https://linkinghub.elsevier.com/retrieve/pii/S016604622300087X">“The Economic Impact of a Casino Monopoly: Evidence from Atlantic City"</a>, <i>Regional Science and Urban Economics</i>, 103, 2023.</li>
 
-  <li><a href="https://journals.sagepub.com/doi/10.1177/08912424231158051“>"The Impact of New Jersey’s Urban Enterprise Zones on Local Employment: A Synthetic Control Approach"</a>, <i>Economic Development Quarterly</i>, 37(2), 2023, pp. 127-142.</li>
+  <li><a href="https://journals.sagepub.com/doi/10.1177/08912424231158051">“The Impact of New Jersey’s Urban Enterprise Zones on Local Employment: A Synthetic Control Approach"</a>, <i>Economic Development Quarterly</i>, 37(2), 2023, pp. 127-142.</li>
 </ul>
 
 <h2>Contact</h2>
