@@ -9,8 +9,8 @@
 
 <p>My research spans urban economics, labor economics, and place-based policies. </p>
 
-<a href="adamscavette_CV.pdf" download>CV (updated July 2024)</a>
-<a href="https://scholar.google.com/citations?user=UWVskVMAAAAJ&hl=en">Google Scholar</a>
+<a href="adamscavette_CV.pdf" download>CV (updated July 2024)</a><br>
+<a href="https://scholar.google.com/citations?user=UWVskVMAAAAJ&hl=en">Google Scholar</a><br>
 <a href="https://ideas.repec.org/f/psc838.html">IDEAS/RePEc</a>
 
 <p>Email: <a href="mailto:adam.scavette@rich.frb.org">adam.scavette@rich.frb.org</a> </p>
