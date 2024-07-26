@@ -20,8 +20,8 @@
 
 <ul>
   <p><li>“JUE Insight: The Labor Market Effects of Place-Based Policies: Evidence from England's Neighbourhood Renewal Fund”</p> 
-  <p>with <a href="https://www.robcalvertjump.com/">Robert Calvert Jump</a>)</p>
-  <strong><i>Journal of Urban Economics</i></strong>, accepted.</li></p>
+  with <a href="https://www.robcalvertjump.com/">Robert Calvert Jump</a>)
+  <strong><i>Journal of Urban Economics</i></strong>, accepted.</li>
   
   <p><li>“Aerospace Place-Based Policy: The Impact of Boeing on South Carolina's Aerospace Industry”, <strong><i>Economic Development Quarterly</i></strong>, forthcoming.</li></p>
 
