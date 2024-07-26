@@ -11,6 +11,10 @@
 
 <p><a href="adamscavette_CV.pdf" download>CV (updated July 2024)</a> </p> <p><a href="https://scholar.google.com/citations?user=UWVskVMAAAAJ&hl=en">Google Scholar</a> </p> <p> <a href="https://ideas.repec.org/f/psc838.html">IDEAS/RePEc</a> </p>
 
+<p>Email: <a href="mailto:adam.scavette@rich.frb.org">adam.scavette@rich.frb.org</a> </p>
+<p>Twitter: <a href="https://twitter.com/AdamScavette">@adamscavette</a> </p>
+<p>Disclaimer: <strong>The views here are my own and do not necessarily reflect those of the Federal Reserve Bank of Richmond or the Federal Reserve System.</strong></p>
+
 <h2>Working Papers</h2>
 
 <ul>
@@ -25,12 +29,6 @@
 <p><li><a href="https://journals.sagepub.com/doi/10.1177/08912424231158051">“The Impact of New Jersey’s Urban Enterprise Zones on Local Employment: A Synthetic Control Approach"</a>, <strong><i>Economic Development Quarterly</i></strong>, 37(2), 2023, pp. 127-142.</li.</p>
 <p><li><a href="https://journals.sagepub.com/doi/abs/10.1177/0361198118758983?journalCode=trra">“Exploiting a Natural Hub: Turning a Stopover into a Destination”</a> (with Leah Goldsberry), <strong><i>Transportation Research Record: Journal of the Transportation Research Board</i></strong>, 2672(23), 2018, pp. 8-14.</li></p>
 </ul>
-
-<h2>Contact</h2>
-<p>Email: <a href="mailto:adam.scavette@rich.frb.org">adam.scavette@rich.frb.org</a> </p>
-  <p>Twitter: <a href="https://twitter.com/AdamScavette">@adamscavette</a> </p>
-
-<p>Disclaimer: <strong>The views here are my own and do not necessarily reflect those of the Federal Reserve Bank of Richmond or the Federal Reserve System.</strong> </p>
 
 
 
