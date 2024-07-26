@@ -3,7 +3,7 @@
 <img src="/1664665342086.jpg">
 
 <h2>About Me</h2>
-<p> My name is Adam Scavette, and I am a regional economist at the Baltimore branch of the Federal Reserve Bank of Richmond.</p>
+<p> My name is Adam Scavette, and I am a regional economist at the Baltimore branch of the <a href="https://www.richmondfed.org/">Federal Reserve Bank of Richmond</a>.</p>
 
 <p> I will be a visiting researcher at West Virginia University's <a href="https://rri.wvu.edu/">Regional Research Institute</a> in Fall 2024.</p>
 
