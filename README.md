@@ -3,7 +3,11 @@
 <img src="/1664665342086.jpg">
 
 <h2>About Me</h2>
-<p> My name is Adam Scavette, and I am a regional economist at the Baltimore branch of the Federal Reserve Bank of Richmond. My research interests are focused on urban and regional economics, labor economics, and place-based policies. </p>
+<p> My name is Adam Scavette, and I am a regional economist at the Baltimore branch of the Federal Reserve Bank of Richmond.</p>
+
+<p> I will be a visiting researcher at West Virginia University's <a href="https://rri.wvu.edu/">Regional Research Institute</a> in Fall 2024.</p>
+
+<p>My research interests are focused on urban and regional economics, labor economics, and place-based policies. </p>
 
 <p><a href="adamscavette_CV.pdf" download>CV (updated July 2024)</a> </p> <p><a href="https://scholar.google.com/citations?user=UWVskVMAAAAJ&hl=en">Google Scholar</a> </p> <p> <a href="https://ideas.repec.org/f/psc838.html">IDEAS/RePEc</a> </p>
 
