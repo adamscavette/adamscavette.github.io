@@ -7,7 +7,7 @@
 
 <p> I will be a visiting researcher at West Virginia University's <a href="https://rri.wvu.edu/">Regional Research Institute</a> in Fall 2024.</p>
 
-<p>My research interests are focused on urban and regional economics, labor economics, and place-based policies. </p>
+<p>My research spans urban economics, labor economics, and place-based policies. </p>
 
 <p><a href="adamscavette_CV.pdf" download>CV (updated July 2024)</a> </p> <p><a href="https://scholar.google.com/citations?user=UWVskVMAAAAJ&hl=en">Google Scholar</a> </p> <p> <a href="https://ideas.repec.org/f/psc838.html">IDEAS/RePEc</a> </p>
 
