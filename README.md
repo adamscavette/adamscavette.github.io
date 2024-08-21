@@ -25,7 +25,7 @@ Twitter: <a href="https://twitter.com/AdamScavette">@adamscavette</a><br>
 <h2>Peer-Reviewed Publications</h2>
 
 <ul>
-<p><li><a href="nrf_jump_scavette_insight.pdf" download>“JUE Insight: The Labor Market Effects of Place-Based Policies: Evidence from England's Neighbourhood Renewal Fund” (with <a href="https://www.robcalvertjump.com/">Robert Calvert Jump</a>), <strong><i>Journal of Urban Economics</i></strong>, accepted.</li>
+<p><li><a href="nrf_jump_scavette_insight.pdf" download>“JUE Insight: The Labor Market Effects of Place-Based Policies: Evidence from England's Neighbourhood Renewal Fund”</a><br> (with <a href="https://www.robcalvertjump.com/">Robert Calvert Jump</a>), <strong><i>Journal of Urban Economics</i></strong>, accepted.</li>
 <p><li><a href="https://journals.sagepub.com/doi/10.1177/08912424241268284">“Aerospace Place-Based Policy: The Impact of Boeing on South Carolina's Aerospace Industry</a>", <strong><i>Economic Development Quarterly</i></strong>, 2024.</li></p>
 <p><li><a href="https://linkinghub.elsevier.com/retrieve/pii/S016604622300087X">“The Economic Impact of a Casino Monopoly: Evidence from Atlantic City</a>", <strong><i>Regional Science and Urban Economics</i></strong>, 103, 2023.</li></p>
 <p><li><a href="https://journals.sagepub.com/doi/10.1177/08912424231158051">“The Impact of New Jersey’s Urban Enterprise Zones on Local Employment: A Synthetic Control Approach</a>", <strong><i>Economic Development Quarterly</i></strong>, 37(2), 2023, pp. 127-142.</li></p>
