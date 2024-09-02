@@ -29,7 +29,7 @@ Twitter: <a href="https://twitter.com/AdamScavette">@adamscavette</a><br>
 <p><li><a href="Scavette_EDQ_Boeing.pdf">“Aerospace Place-Based Policy: The Impact of Boeing on South Carolina's Aerospace Industry</a>"<br> <strong><i>Economic Development Quarterly</i></strong>, 2024.</li></p>
 <p><li><a href="Scavette_RSUE_AtlanticCity.pdf">“The Economic Impact of a Casino Monopoly: Evidence from Atlantic City</a>"<br> <strong><i>Regional Science and Urban Economics</i></strong>, 2023.</li></p>
 <p><li><a href="Scavette_EDQ_NJenterprisezones.pdf">“The Impact of New Jersey’s Urban Enterprise Zones on Local Employment: A Synthetic Control Approach</a>"<br> <strong><i>Economic Development Quarterly</i></strong>, 2023.</li></p>
-<p><li><a href="https://journals.sagepub.com/doi/abs/10.1177/0361198118758983?journalCode=trra">“Exploiting a Natural Hub: Turning a Stopover into a Destination</a>"<br>with Leah Goldsberry<br><strong><i>Transportation Research Record: Journal of the Transportation Research Board</i></strong>, 2018.</li></p>
+<p><li><a href="ScavetteGoldsberry_TRR_ExploitingNaturalHub.pdf">“Exploiting a Natural Hub: Turning a Stopover into a Destination</a>"<br>with Leah Goldsberry<br><strong><i>Transportation Research Record: Journal of the Transportation Research Board</i></strong>, 2018.</li></p>
 
 
 
