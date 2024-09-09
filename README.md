@@ -3,7 +3,7 @@
 <img src="/1664665342086.jpg">
 
 <h2>About Me</h2>
-<p> I am a regional economist at the Baltimore branch of the <a href="https://www.richmondfed.org/">Federal Reserve Bank of Richmond</a>. My research covers urban, public, labor, and housing economics. I joined the Richmond Fed in January 2022 after working as a senior regional economic analyst at the Federal Reserve Bank of Philadelphia. I earned my PhD in public policy from Rutgers University-New Brunswick. I also hold advanced degrees in engineering and economics from the University of Pennsylvania and the University of Edinburgh, respectively. </p>
+<p> I am a regional economist at the Baltimore branch of the <a href="https://www.richmondfed.org/">Federal Reserve Bank of Richmond</a>. My research covers urban, public, labor, and housing economics. I joined the Richmond Fed in January 2022 after working as a senior regional economic analyst at the <a href="https://www.philadelphiafed.org/">Federal Reserve Bank of Philadelphia</a>. I earned my PhD in public policy from <a href="https://bloustein.rutgers.edu/">Rutgers University-New Brunswick</a>. I also hold advanced degrees in engineering and economics from the <a href="https://www.seas.upenn.edu/">University of Pennsylvania</a> and the <a href="https://www.ed.ac.uk/economics">University of Edinburgh</a>, respectively. </p>
 
 <p> I will be a visiting researcher at West Virginia University's <a href="https://rri.wvu.edu/">Regional Research Institute</a> during the 2024-2025 academic year.</p>
 
