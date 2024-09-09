@@ -3,11 +3,9 @@
 <img src="/1664665342086.jpg">
 
 <h2>About Me</h2>
-<p> I am a regional economist at the Baltimore branch of the <a href="https://www.richmondfed.org/">Federal Reserve Bank of Richmond</a>.</p>
+<p> I am a regional economist at the Baltimore branch of the <a href="https://www.richmondfed.org/">Federal Reserve Bank of Richmond</a>. My research covers urban, public, labor, and housing economics. I joined the Richmond Fed in January 2022 after working as a senior regional economic analyst at the Federal Reserve Bank of Philadelphia. I earned my PhD in public policy from Rutgers University-New Brunswick. I also hold advanced degrees in engineering and economics from the University of Pennsylvania and the University of Edinburgh, respectively. </p>
 
-<p> I will be a visiting researcher at West Virginia University's <a href="https://rri.wvu.edu/">Regional Research Institute</a> in Fall 2024.</p>
-
-<p>My research spans urban economics, labor economics, and place-based policies. </p>
+<p> I will be a visiting researcher at West Virginia University's <a href="https://rri.wvu.edu/">Regional Research Institute</a> during the 2024-2025 academic year.</p>
 
 <a href="adamscavette_CV.pdf" download>CV (updated July 2024)</a><br>
 <a href="https://scholar.google.com/citations?user=UWVskVMAAAAJ&hl=en">Google Scholar</a><br>
