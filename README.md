@@ -9,9 +9,16 @@
 
 <p> I earned my PhD in public policy from <a href="https://bloustein.rutgers.edu/">Rutgers University-New Brunswick</a> in 2024. I also hold advanced degrees in engineering and economics from the <a href="https://www.seas.upenn.edu/">University of Pennsylvania</a> and the <a href="https://www.ed.ac.uk/economics">University of Edinburgh</a>, respectively. </p>
 
-<p> I will be a visiting researcher at West Virginia University's <a href="https://rri.wvu.edu/">Regional Research Institute</a> during the 2024-2025 academic year.</p>
+<p> I am currently a visiting researcher at West Virginia University's <a href="https://rri.wvu.edu/">Regional Research Institute</a>.</p>
 
-<p><strong>Upcoming Talks:</p>
+<p><strong>Upcoming Talks:</p></strong>
+<ul>
+<p><li>Johns Hopkins University, October 29, 2024</li></p>
+<p><li>WHY Symposium on Policy Evaluation and Causal Inference, November 19, 2024</li></p>
+<p><li>The Urban Institute, December 2, 2024</li></p>
+<p><li>Federal Reserve Bank of St. Louis, December 4, 2024</li></p>
+<p><li>West Virginia University, April 11, 2024</li></p>
+</ul>
 
 <a href="adamscavette_CV.pdf" download>CV (updated July 2024)</a><br>
 <a href="https://scholar.google.com/citations?user=UWVskVMAAAAJ&hl=en">Google Scholar</a><br>
