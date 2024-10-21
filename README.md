@@ -18,8 +18,6 @@
 Email: <a href="mailto:adam.scavette@rich.frb.org">adam.scavette@rich.frb.org</a><br>
 Twitter: <a href="https://twitter.com/AdamScavette">@adamscavette</a><br>
 
-<p><strong>The views here are my own and do not necessarily reflect those of the Federal Reserve Bank of Richmond or the Federal Reserve System.</strong></p>
-
 <p><strong>Upcoming Talks:</strong></p>
 
 <ul>
@@ -29,6 +27,8 @@ Twitter: <a href="https://twitter.com/AdamScavette">@adamscavette</a><br>
 <p><li>Federal Reserve Bank of St. Louis, December 4, 2024</li></p>
 <p><li>West Virginia University, April 11, 2025</li></p>
 </ul>
+
+<p><strong>The views here are my own and do not necessarily reflect those of the Federal Reserve Bank of Richmond or the Federal Reserve System.</strong></p>
 
 <h2>Working Papers</h2>
 
