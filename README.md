@@ -3,11 +3,15 @@
 <img src="/1664665342086.jpg">
 
 <h2>About Me</h2>
-<p> I am a regional economist at the Baltimore branch of the <a href="https://www.richmondfed.org/">Federal Reserve Bank of Richmond</a>. My research spans topics within urban, public, labor, and housing economics. Much of my research focuses on understanding the effects of place-based government policies on labor market outcomes. My research has been published in the leading academic journals in urban economics, the <i>Journal of Urban Economics</i> and <i>Regional Science and Urban Economics</i>, and covered by major media outlets including <i>The New York Times</i> and <i>Bloomberg</i>.</p>
+<p> I am a regional economist at the Baltimore branch of the <a href="https://www.richmondfed.org/">Federal Reserve Bank of Richmond</a>. My research spans topics within urban, public, labor, and housing economics. 
+  
+<p> Much of my research focuses on understanding the effects of place-based government policies on labor market outcomes. My research has been published in the leading academic journals in urban economics, the <i>Journal of Urban Economics</i> and <i>Regional Science and Urban Economics</i>, and covered by major media outlets including <i>The New York Times</i> and <i>Bloomberg</i>.</p>
 
 <p> I earned my PhD in public policy from <a href="https://bloustein.rutgers.edu/">Rutgers University-New Brunswick</a> in 2024. I also hold advanced degrees in engineering and economics from the <a href="https://www.seas.upenn.edu/">University of Pennsylvania</a> and the <a href="https://www.ed.ac.uk/economics">University of Edinburgh</a>, respectively. </p>
 
 <p> I will be a visiting researcher at West Virginia University's <a href="https://rri.wvu.edu/">Regional Research Institute</a> during the 2024-2025 academic year.</p>
+
+<p><strong>Upcoming Talks:</p>
 
 <a href="adamscavette_CV.pdf" download>CV (updated July 2024)</a><br>
 <a href="https://scholar.google.com/citations?user=UWVskVMAAAAJ&hl=en">Google Scholar</a><br>
