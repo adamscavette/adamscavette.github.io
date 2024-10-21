@@ -18,6 +18,7 @@
 Email: <a href="mailto:adam.scavette@rich.frb.org">adam.scavette@rich.frb.org</a><br>
 Twitter: <a href="https://twitter.com/AdamScavette">@adamscavette</a><br>
 
+
 <p><strong>Upcoming Talks:</strong></p>
 
 <ul>
