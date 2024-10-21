@@ -16,10 +16,9 @@
 <a href="https://ideas.repec.org/f/psc838.html">IDEAS/RePEc</a>
 
 Email: <a href="mailto:adam.scavette@rich.frb.org">adam.scavette@rich.frb.org</a><br>
-Twitter: <a href="https://twitter.com/AdamScavette">@adamscavette</a><br><br>
+Twitter: <a href="https://twitter.com/AdamScavette">@adamscavette</a><br>
 
-
-<p><strong>Upcoming Talks:</strong></p>
+<h2><strong>Upcoming Talks:</strong></h2>
 
 <ul>
 <p><li>Johns Hopkins University, October 29, 2024</li></p>
