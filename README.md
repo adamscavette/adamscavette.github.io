@@ -15,7 +15,7 @@
 
 <a href="adamscavette_CV.pdf" download>CV (updated July 2024)</a><br>
 <a href="https://scholar.google.com/citations?user=UWVskVMAAAAJ&hl=en">Google Scholar</a><br>
-<a href="https://ideas.repec.org/f/psc838.html">IDEAS/RePEc</a>
+<a href="https://ideas.repec.org/f/psc838.html">IDEAS/RePEc</a><br>
 
 Email: <a href="mailto:adam.scavette@rich.frb.org">adam.scavette@rich.frb.org</a><br>
 Twitter: <a href="https://twitter.com/AdamScavette">@adamscavette</a><br>
