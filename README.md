@@ -19,7 +19,7 @@ Email: <a href="mailto:adam.scavette@rich.frb.org">adam.scavette@rich.frb.org</a
 Twitter: <a href="https://twitter.com/AdamScavette">@adamscavette</a><br>
 <p><strong>The views here are my own and do not necessarily reflect those of the Federal Reserve Bank of Richmond or the Federal Reserve System.</strong></p>
 
-<p><strong>Upcoming Talks:</p></strong>
+<p><strong>Upcoming Talks:</strong></p>
 <ul>
 <p><li>Johns Hopkins University, October 29, 2024</li></p>
 <p><li>WHY Symposium on Policy Evaluation and Causal Inference, November 19, 2024</li></p>
