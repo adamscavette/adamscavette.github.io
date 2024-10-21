@@ -11,15 +11,6 @@
 
 <p> I am currently a visiting researcher at West Virginia University's <a href="https://rri.wvu.edu/">Regional Research Institute</a>.</p>
 
-<p><strong>Upcoming Talks:</p></strong>
-<ul>
-<p><li>Johns Hopkins University, October 29, 2024</li></p>
-<p><li>WHY Symposium on Policy Evaluation and Causal Inference, November 19, 2024</li></p>
-<p><li>The Urban Institute, December 2, 2024</li></p>
-<p><li>Federal Reserve Bank of St. Louis, December 4, 2024</li></p>
-<p><li>West Virginia University, April 11, 2024</li></p>
-</ul>
-
 <a href="adamscavette_CV.pdf" download>CV (updated July 2024)</a><br>
 <a href="https://scholar.google.com/citations?user=UWVskVMAAAAJ&hl=en">Google Scholar</a><br>
 <a href="https://ideas.repec.org/f/psc838.html">IDEAS/RePEc</a>
@@ -27,6 +18,15 @@
 Email: <a href="mailto:adam.scavette@rich.frb.org">adam.scavette@rich.frb.org</a><br>
 Twitter: <a href="https://twitter.com/AdamScavette">@adamscavette</a><br>
 <p><strong>The views here are my own and do not necessarily reflect those of the Federal Reserve Bank of Richmond or the Federal Reserve System.</strong></p>
+
+<p><strong>Upcoming Talks:</p></strong>
+<ul>
+<p><li>Johns Hopkins University, October 29, 2024</li></p>
+<p><li>WHY Symposium on Policy Evaluation and Causal Inference, November 19, 2024</li></p>
+<p><li>The Urban Institute, December 2, 2024</li></p>
+<p><li>Federal Reserve Bank of St. Louis, December 4, 2024</li></p>
+<p><li>West Virginia University, April 11, 2025</li></p>
+</ul>
 
 <h2>Working Papers</h2>
 
