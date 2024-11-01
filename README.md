@@ -1,4 +1,4 @@
-# [Adam Scavette]
+# Adam Scavette
 
 <img src="/1664665342086.jpg">
 
