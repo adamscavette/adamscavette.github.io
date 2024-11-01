@@ -3,7 +3,7 @@
 <img src="/1664665342086.jpg">
 
 <h2>About Me</h2>
-<p> I am a regional economist at the Baltimore branch of the <a href="https://www.richmondfed.org/">Federal Reserve Bank of Richmond</a>. My research spans topics within urban, public, labor, and housing economics. 
+<p> I am an economic advisor in thecommunity development group at the <a href="https://www.philadelphiafed.org/">Federal Reserve Bank of Piladelphia</a>. My research spans topics within urban, public, labor, and housing economics. 
   
 <p> Much of my research focuses on understanding the effects of place-based government policies on labor market outcomes. My research has been published in the leading academic journals in urban economics, the <i>Journal of Urban Economics</i> and <i>Regional Science and Urban Economics</i>, and covered by major media outlets including <i>The New York Times</i> and <i>Bloomberg</i>.</p>
 
