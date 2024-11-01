@@ -17,7 +17,7 @@
 <a href="https://scholar.google.com/citations?user=UWVskVMAAAAJ&hl=en">Google Scholar</a><br>
 <a href="https://ideas.repec.org/f/psc838.html">IDEAS/RePEc</a><br>
 
-<p>Email: <a href="mailto:adam.scavette@rich.frb.org">adam.scavette@rich.frb.org</a><br>
+<p>Email: <a href="mailto:adam.scavette@phil.frb.org">adam.scavette@phil.frb.org</a><br>
 X (Twitter): <a href="https://twitter.com/AdamScavette">@adamscavette</a><br></p>
 
 <h2><strong>Upcoming Talks</strong></h2>
