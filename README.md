@@ -76,6 +76,7 @@ X (Twitter): <a href="https://twitter.com/AdamScavette">@adamscavette</a><br></p
 
 <h3>Macroeconomics</h3>
 <ul>
+<p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2024/rm_04_04_24_regional_surveys_national_conditions">“Do Regional Fed Surveys Reflect National Manufacturing Conditions?”</a><br> with Jason Kosakow<br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2024.</li></p>
 <p><li><a href="https://www.philadelphiafed.org/-/media/frbp/assets/economy/reports/research-rap/2014/are-we-in-a-recession.pdf">“Are We in a Recession? The ‘Anxious Index Nowcast’ Knows!”</a><br><strong><i>FRB Philadelphia: Research Rap Special Report</i></strong>, 2014.</li></p>
 </ul>
 
