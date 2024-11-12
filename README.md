@@ -58,6 +58,7 @@ X (Twitter): <a href="https://twitter.com/AdamScavette">@adamscavette</a><br></p
 
 <h3>Place-Based Policies</h3>
 <ul>
+<p><li><a href="https://www.richmondfed.org/publications/research/economic_brief/2022/eb_22-28">“Casinos and Regional Economies: Has the Game Changed?”</a><br><strong><i>FRB Richmond: Economic Brief</i></strong>, 2022.</li></p>
 <p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2024/rm_09_12_24_boeing_south_carolina_economic_impact">“Boeing South Carolina's Economic Impact: Ten Years After Opening”</a><br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2024.</li></p>
 <p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2023/rm_02_03_2023_ARPA">“The Rural Reach of ARPA’s Development Grants in the Fifth District”</a><br> with Andy Bauer<br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2023.</li></p>
 <p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2022/rm_10_13_2022_chips_science_act">“How the CHIPS and Science Act Will Target Economic Development in Distressed Labor Markets”</a><br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2022.</li></p>
