@@ -69,6 +69,7 @@ X (Twitter): <a href="https://twitter.com/AdamScavette">@adamscavette</a><br></p
 
 <h3>Housing</h3>
 <ul>
+<p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2024/rm_02_15_24_unlocking_housing_supply">“Unlocking Housing Supply: What Can We Learn About Recent Construction and Permitting Patterns in Our Region?”</a><br> with Sierra Stoney<br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2024.</li></p>
 <p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2023/rm_08_17_23_baltimore_abandoned_housing">“Addressing Baltimore’s Abandoned Housing”</a><br> with Peter Dolkart<br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2023.</li></p>
 </ul>
 
