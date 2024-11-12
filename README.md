@@ -57,7 +57,7 @@ X (Twitter): <a href="https://twitter.com/AdamScavette">@adamscavette</a><br></p
 
 <h3>Broadband</h3>
 <ul>
-<p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2024/rm_10_31_24_rural_health_care_deserts">“Digital Access Deficiencies in Rural Health Care Deserts: Identifying a Role for Telehealth”</a><br> with Alvaro Sánchez<br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2022.</li></p>
+<p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2024/rm_10_31_24_rural_health_care_deserts">“Digital Access Deficiencies in Rural Health Care Deserts: Identifying a Role for Telehealth”</a><br> with Alvaro Sánchez<br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2024.</li></p>
 <p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2022/rm_09_15_2022_affordable_connectivity_program">“How to Bridge the Digital Divide? Assessing the Affordable Connectivity Program”</a><br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2022.</li></p>
 <p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2022/rm_03_03_2022_broadband">“The End of the Digital Divide? The Future of Broadband Post-Infrastructure Investment and Jobs Act (IIJA)”</a><br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2022.</li></p>
 </ul>
