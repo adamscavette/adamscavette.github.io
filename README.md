@@ -49,7 +49,9 @@ X (Twitter): <a href="https://twitter.com/AdamScavette">@adamscavette</a><br></p
 <h3>Place-Based Policies</h3>
 
 <h3>Broadband</h3>
+<ul>
 <p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2022/rm_03_03_2022_broadband">“The End of the Digital Divide? The Future of Broadband Post-Infrastructure Investment and Jobs Act (IIJA),”</a><br><strong><i>Regional Matters</i></strong>, 2022.</li></p>
+</ul>
 
 
 
