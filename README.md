@@ -44,7 +44,15 @@ X (Twitter): <a href="https://twitter.com/AdamScavette">@adamscavette</a><br></p
 <p><li><a href="ScavetteGoldsberry_TRR_ExploitingNaturalHub.pdf">“Exploiting a Natural Hub: Turning a Stopover into a Destination</a>"<br>with Leah Goldsberry<br><strong><i>Transportation Research Record: Journal of the Transportation Research Board</i></strong>, 2018.</li></p>
 </ul>
 
-<h2>Federal Reserve Publications: Reports & Long Articles</h2>
+<h2>Federal Reserve Publications: Long Articles & Reports</h2>
+
+<ul>
+<p><li><a href="JumpScavette_NRF_JUE_2024.pdf">“JUE Insight: The Labor Market Effects of Place-Based Policies: Evidence from England's Neighbourhood Renewal Fund”</a><br> with <a href="https://www.robcalvertjump.com/">Robert Calvert Jump</a><br> <strong><i>Journal of Urban Economics</i></strong>, 2024.</li></p>
+<p><li><a href="Scavette_EDQ_Boeing.pdf">“Aerospace Place-Based Policy: The Impact of Boeing on South Carolina's Aerospace Industry</a>"<br> <strong><i>Economic Development Quarterly</i></strong>, 2024.</li></p>
+<p><li><a href="Scavette_RSUE_AtlanticCity.pdf">“The Economic Impact of a Casino Monopoly: Evidence from Atlantic City</a>"<br> <strong><i>Regional Science and Urban Economics</i></strong>, 2023.</li></p>
+<p><li><a href="Scavette_EDQ_NJenterprisezones.pdf">“The Impact of New Jersey’s Urban Enterprise Zones on Local Employment: A Synthetic Control Approach</a>"<br> <strong><i>Economic Development Quarterly</i></strong>, 2023.</li></p>
+
+</ul>
 
 <h2>Federal Reserve Publications: Briefs & Blog Posts</h2>
 
@@ -75,6 +83,7 @@ X (Twitter): <a href="https://twitter.com/AdamScavette">@adamscavette</a><br></p
 <p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2023/rm_08_03_23_state_business_cycles">“Fifth District State Business Cycles”</a><br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2023.</li></p>
 <p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2023/rm_03_28_2023_price_setting">“Firm Price-Setting Behavior Amid Elevated Price Growth: Evidence From Our Surveys”</a><br> with Jason Kosakow<br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2023.</li></p>
 <p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2022/rm_04_28_2022_manufacturing">“The Role of Manufacturing in the Rural Fifth District”</a><br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2022.</li></p>
+<p><li><a href="https://www.philadelphiafed.org/-/media/frbp/assets/economy/reports/research-briefs/rb-20161201.pdf">“Is Urban Cool Cooling New Jersey’s Job Market?</a>"<br>with Ethan Haswell<br><strong><i>FRB Philadelphia: Research Brief</i></strong>, 2016.</li></p>
 </ul>
 
 <h3>Housing</h3>
