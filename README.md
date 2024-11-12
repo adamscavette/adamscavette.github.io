@@ -48,19 +48,20 @@ X (Twitter): <a href="https://twitter.com/AdamScavette">@adamscavette</a><br></p
 
 <h3>Place-Based Policies</h3>
 <ul>
-<p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2023/rm_02_03_2023_ARPA">“The Rural Reach of ARPA’s Development Grants in the Fifth District”</a><br> with Andy Bauer<br> <strong><i>FRB Richmond: Regional Matters</i></strong>, 2023.</li></p>
-<p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2022/rm_10_13_2022_chips_science_act">“How the CHIPS and Science Act Will Target Economic Development in Distressed Labor Markets,”</a><br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2022.</li></p>
+<p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2023/rm_02_03_2023_ARPA">“The Rural Reach of ARPA’s Development Grants in the Fifth District”</a><br> with Andy Bauer<br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2023.</li></p>
+<p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2022/rm_10_13_2022_chips_science_act">“How the CHIPS and Science Act Will Target Economic Development in Distressed Labor Markets”</a><br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2022.</li></p>
 </ul>
 
 <h3>Broadband</h3>
 <ul>
-<p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2022/rm_09_15_2022_affordable_connectivity_program">“How to Bridge the Digital Divide? Assessing the Affordable Connectivity Program,”</a><br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2022.</li></p>
-<p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2022/rm_03_03_2022_broadband">“The End of the Digital Divide? The Future of Broadband Post-Infrastructure Investment and Jobs Act (IIJA),”</a><br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2022.</li></p>
+<p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2022/rm_09_15_2022_affordable_connectivity_program">“How to Bridge the Digital Divide? Assessing the Affordable Connectivity Program”</a><br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2022.</li></p>
+<p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2022/rm_03_03_2022_broadband">“The End of the Digital Divide? The Future of Broadband Post-Infrastructure Investment and Jobs Act (IIJA)”</a><br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2022.</li></p>
 </ul>
 
 <h3>Regional Economics</h3>
 <ul>
-<p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2022/rm_04_28_2022_manufacturing">“The Role of Manufacturing in the Rural Fifth District,”</a><br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2022.</li></p>
+<p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2023/rm_03_28_2023_price_setting">“Firm Price-Setting Behavior Amid Elevated Price Growth: Evidence From Our Surveys”</a><br> with Jason Kosakow<br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2023.</li></p>
+<p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2022/rm_04_28_2022_manufacturing">“The Role of Manufacturing in the Rural Fifth District”</a><br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2022.</li></p>
 </ul>
 
 <h3>Macroeconomics</h3>
