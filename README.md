@@ -43,7 +43,6 @@ X (Twitter): <a href="https://twitter.com/AdamScavette">@adamscavette</a><br></p
 <p><li><a href="Scavette_EDQ_NJenterprisezones.pdf">“The Impact of New Jersey’s Urban Enterprise Zones on Local Employment: A Synthetic Control Approach</a>"<br> <strong><i>Economic Development Quarterly</i></strong>, 2023.</li></p>
 <p><li><a href="ScavetteGoldsberry_TRR_ExploitingNaturalHub.pdf">“Exploiting a Natural Hub: Turning a Stopover into a Destination</a>"<br>with Leah Goldsberry<br><strong><i>Transportation Research Record: Journal of the Transportation Research Board</i></strong>, 2018.</li></p>
 </ul>
-
 <h2>Federal Reserve Publications: Long Articles & Reports</h2>
 
 <ul>
