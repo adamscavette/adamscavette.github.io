@@ -65,6 +65,11 @@ X (Twitter): <a href="https://twitter.com/AdamScavette">@adamscavette</a><br></p
 <p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2022/rm_04_28_2022_manufacturing">“The Role of Manufacturing in the Rural Fifth District”</a><br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2022.</li></p>
 </ul>
 
+<h3>Housing</h3>
+<ul>
+<p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2023/rm_08_17_23_baltimore_abandoned_housing">“Addressing Baltimore’s Abandoned Housing”</a><br> with Peter Dolkart<br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2023.</li></p>
+</ul>
+
 <h3>Macroeconomics</h3>
 <ul>
 <p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2022/rm_03_03_2022_broadband">“The End of the Digital Divide? The Future of Broadband Post-Infrastructure Investment and Jobs Act (IIJA),”</a><br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2022.</li></p>
