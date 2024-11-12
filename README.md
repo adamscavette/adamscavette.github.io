@@ -47,6 +47,8 @@ X (Twitter): <a href="https://twitter.com/AdamScavette">@adamscavette</a><br></p
 <h2>Federal Reserve Publications: Long Articles & Reports</h2>
 
 <ul>
+<p><li><a href="https://www.richmondfed.org/publications/research/econ_focus/2024/q1-q2/district_digest">“Understanding SNAP’s Role</a>"<br>with Carrie Cook, Stephanie Norris and Alvaro Sánchez<br><strong><i>FRB Richmond: Econ Focus</i></strong>, 2024.</li></p>
+<p><li><a href="https://www.richmondfed.org/-/media/RichmondFedOrg/publications/research/econ_focus/2023/q2/district_digest.pdf">“Social Capital Across the Fifth District</a>"<br>with Stephanie Norris<br><strong><i>FRB Richmond: Econ Focus</i></strong>, 2023.</li></p>
 <p><li><a href="https://www.philadelphiafed.org/-/media/frbp/assets/economy/articles/economic-insights/2022/q2/eiq222_rs-making-ends-meet.pdf">“Regional Spotlight: Making Ends Meet</a>"<br><strong><i>FRB Philadelphia: Economic Insights</i></strong>, 2022.</li>
 <p><li><a href="https://www.philadelphiafed.org/-/media/frbp/assets/community-development/reports/broadband-subscription-computer-access-and-labor-market-attachment-across-us-metros.pdf">“Broadband Subscription, Computer Use, and Labor Market Attachment across U.S. Metros</a>"<br>with Alvaro Sánchez<br><strong><i>FRB Philadelphia: Community Development Report</i></strong>, 2021.</li></p>
 <p><li><a href="https://www.philadelphiafed.org/-/media/frbp/assets/economy/articles/economic-insights/2019/q4/eiq419_rs-evaluating-unemployment-rates.pdf">“Regional Spotlight: Evaluating Metro Unemployment Rates Throughout the Business Cycle</a>"<br><strong><i>FRB Philadelphia: Economic Insights</i></strong>, 2019.</li>
@@ -58,10 +60,10 @@ X (Twitter): <a href="https://twitter.com/AdamScavette">@adamscavette</a><br></p
 
 <h3>Place-Based Policies</h3>
 <ul>
-<p><li><a href="https://www.richmondfed.org/publications/research/economic_brief/2022/eb_22-28">“Casinos and Regional Economies: Has the Game Changed?”</a><br><strong><i>FRB Richmond: Economic Brief</i></strong>, 2022.</li></p>
 <p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2024/rm_09_12_24_boeing_south_carolina_economic_impact">“Boeing South Carolina's Economic Impact: Ten Years After Opening”</a><br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2024.</li></p>
 <p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2023/rm_02_03_2023_ARPA">“The Rural Reach of ARPA’s Development Grants in the Fifth District”</a><br> with Andy Bauer<br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2023.</li></p>
 <p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2022/rm_10_13_2022_chips_science_act">“How the CHIPS and Science Act Will Target Economic Development in Distressed Labor Markets”</a><br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2022.</li></p>
+<p><li><a href="https://www.richmondfed.org/publications/research/economic_brief/2022/eb_22-28">“Casinos and Regional Economies: Has the Game Changed?”</a><br><strong><i>FRB Richmond: Economic Brief</i></strong>, 2022.</li></p>
 </ul>
 
 <h3>Broadband</h3>
