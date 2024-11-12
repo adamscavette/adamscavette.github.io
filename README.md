@@ -60,6 +60,7 @@ X (Twitter): <a href="https://twitter.com/AdamScavette">@adamscavette</a><br></p
 
 <h3>Regional Economics</h3>
 <ul>
+<p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2024/rm_06_20_24_who_is_supplying_labor">“Who is Supplying the Labor for Recent Employment Growth in the Rural Fifth District?”</a><br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2024.</li></p>
 <p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2024/rm_05_03_24_impact_of_francis_scott_key_bridge_collapse">“The Impact of the Francis Scott Key Bridge Collapse on Fifth District Firms”</a><br> with Jason Kosakow<br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2024.</li></p>
 <p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2024/rm_03_07_24_urban_marylanders_migrating">“Urban Marylanders Are Migrating to More Affordable and Smaller Metro Areas”</a><br> with Keith Waters<br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2024.</li></p>
 <p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2024/rm_02_02_24_firms_revisiting_prices_less_amid_cooling_inflation">“Are Fifth District Firms Revisiting Their Prices Less Often Amid Cooling Inflation?”</a><br> with Jason Kosakow<br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2024.</li></p>
