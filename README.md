@@ -61,6 +61,7 @@ X (Twitter): <a href="https://twitter.com/AdamScavette">@adamscavette</a><br></p
 
 <h3>Regional Economics</h3>
 <ul>
+<p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2024/rm_09_19_24_are_college_towns_recession_proof">“Are College Towns Recession Proof?”</a><br> with Robert Calvert Jump<br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2024.</li></p>
 <p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2024/rm_07_12_24_understanding_immigration">“Understanding Immigration in the Fifth District: Where Did International Migrants Settle?”</a><br> with Surekha Carpenter<br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2024.</li></p>
 <p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2024/rm_06_20_24_who_is_supplying_labor">“Who is Supplying the Labor for Recent Employment Growth in the Rural Fifth District?”</a><br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2024.</li></p>
 <p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2024/rm_05_03_24_impact_of_francis_scott_key_bridge_collapse">“The Impact of the Francis Scott Key Bridge Collapse on Fifth District Firms”</a><br> with Jason Kosakow<br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2024.</li></p>
