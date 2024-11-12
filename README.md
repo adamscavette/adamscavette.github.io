@@ -44,7 +44,7 @@ X (Twitter): <a href="https://twitter.com/AdamScavette">@adamscavette</a><br></p
 <p><li><a href="ScavetteGoldsberry_TRR_ExploitingNaturalHub.pdf">“Exploiting a Natural Hub: Turning a Stopover into a Destination</a>"<br>with Leah Goldsberry<br><strong><i>Transportation Research Record: Journal of the Transportation Research Board</i></strong>, 2018.</li></p>
 </ul>
 
-<h2>Federal Reserve Articles & Blog Posts</h2>
+<h2>Federal Reserve Publications: Briefs & Blog Posts</h2>
 
 <h3>Place-Based Policies</h3>
 <ul>
