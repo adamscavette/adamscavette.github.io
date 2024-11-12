@@ -47,7 +47,8 @@ X (Twitter): <a href="https://twitter.com/AdamScavette">@adamscavette</a><br></p
 <h2>Federal Reserve Publications: Long Articles & Reports</h2>
 
 <ul>
-<p><li><a href="https://www.philadelphiafed.org/-/media/frbp/assets/economy/articles/economic-insights/2019/q4/eiq419_rs-evaluating-unemployment-rates.pdf">““Regional Spotlight: Evaluating Metro Unemployment Rates Throughout the Business Cycle</a>"<br><strong><i>FRB Philadelphia: Economic Insights</i></strong>, 2019.</li>
+<p><li><a href="https://www.philadelphiafed.org/-/media/frbp/assets/community-development/reports/broadband-subscription-computer-access-and-labor-market-attachment-across-us-metros.pdf">“Broadband Subscription, Computer Use, and Labor Market Attachment across U.S. Metros</a>"<br>with Alvaro Sánchez<br><strong><i>FRB Philadelphia: Community Development Report</i></strong>, 2017.</li></p>
+<p><li><a href="https://www.philadelphiafed.org/-/media/frbp/assets/economy/articles/economic-insights/2019/q4/eiq419_rs-evaluating-unemployment-rates.pdf">“Regional Spotlight: Evaluating Metro Unemployment Rates Throughout the Business Cycle</a>"<br><strong><i>FRB Philadelphia: Economic Insights</i></strong>, 2019.</li>
 <p><li><a href="https://www.philadelphiafed.org/-/media/frbp/assets/economy/articles/economic-insights/2019/q2/eiq219-opioid-impact.pdf">“Exploring the Economic Effects of the Opioid Epidemic</a>"<br><strong><i>FRB Philadelphia: Economic Insights</i></strong>, 2019.</li>
 <p><li><a href="https://www.philadelphiafed.org/-/media/frbp/assets/economy/articles/economic-insights/2017/q4/rs_purchasing-power.pdf">“Regional Spotlight: Purchasing Power Across the U.S.</a>"<br>with Elif Sen<br><strong><i>FRB Philadelphia: Economic Insights</i></strong>, 2017.</li></p>
 </ul>
