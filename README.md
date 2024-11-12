@@ -48,7 +48,7 @@ X (Twitter): <a href="https://twitter.com/AdamScavette">@adamscavette</a><br></p
 
 <ul>
 <p><li><a href="https://www.philadelphiafed.org/-/media/frbp/assets/economy/articles/economic-insights/2019/q2/eiq219-opioid-impact.pdf">“Exploring the Economic Effects of the Opioid Epidemic</a>"<br><strong><i>FRB Philadelphia: Economic Insights</i></strong>, 2019.</li>
-<p><li><a href="https://www.philadelphiafed.org/-/media/frbp/assets/economy/articles/economic-insights/2017/q4/rs_purchasing-power.pdf">“Regional Spotlight: Purchasing Power Across the U.S.</a>"with Elif Sen<br><br><strong><i>FRB Philadelphia: Economic Insights</i></strong>, 2017.</li></p>
+<p><li><a href="https://www.philadelphiafed.org/-/media/frbp/assets/economy/articles/economic-insights/2017/q4/rs_purchasing-power.pdf">“Regional Spotlight: Purchasing Power Across the U.S.</a>"<br>with Elif Sen<br><strong><i>FRB Philadelphia: Economic Insights</i></strong>, 2017.</li></p>
 </ul>
 
 <h2>Federal Reserve Publications: Briefs & Blog Posts</h2>
