@@ -47,11 +47,8 @@ X (Twitter): <a href="https://twitter.com/AdamScavette">@adamscavette</a><br></p
 <h2>Federal Reserve Publications: Long Articles & Reports</h2>
 
 <ul>
-<p><li><a href="JumpScavette_NRF_JUE_2024.pdf">“JUE Insight: The Labor Market Effects of Place-Based Policies: Evidence from England's Neighbourhood Renewal Fund”</a><br> with <a href="https://www.robcalvertjump.com/">Robert Calvert Jump</a><br> <strong><i>Journal of Urban Economics</i></strong>, 2024.</li></p>
-<p><li><a href="Scavette_EDQ_Boeing.pdf">“Aerospace Place-Based Policy: The Impact of Boeing on South Carolina's Aerospace Industry</a>"<br> <strong><i>Economic Development Quarterly</i></strong>, 2024.</li></p>
-<p><li><a href="Scavette_RSUE_AtlanticCity.pdf">“The Economic Impact of a Casino Monopoly: Evidence from Atlantic City</a>"<br> <strong><i>Regional Science and Urban Economics</i></strong>, 2023.</li></p>
-<p><li><a href="Scavette_EDQ_NJenterprisezones.pdf">“The Impact of New Jersey’s Urban Enterprise Zones on Local Employment: A Synthetic Control Approach</a>"<br> <strong><i>Economic Development Quarterly</i></strong>, 2023.</li></p>
-
+<p><li><a href="https://www.philadelphiafed.org/-/media/frbp/assets/economy/articles/economic-insights/2019/q2/eiq219-opioid-impact.pdf">“Exploring the Economic Effects of the Opioid Epidemic</a>"<br><strong><i>FRB Philadelphia: Economic Insights</i></strong>, 2019.</li>
+<p><li><a href="https://www.philadelphiafed.org/-/media/frbp/assets/economy/articles/economic-insights/2017/q4/rs_purchasing-power.pdf">“Regional Spotlight: Purchasing Power Across the U.S.</a>"with Elif Sen<br><br><strong><i>FRB Philadelphia: Economic Insights</i></strong>, 2017.</li></p>
 </ul>
 
 <h2>Federal Reserve Publications: Briefs & Blog Posts</h2>
