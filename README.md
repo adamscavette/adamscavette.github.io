@@ -60,6 +60,7 @@ X (Twitter): <a href="https://twitter.com/AdamScavette">@adamscavette</a><br></p
 
 <h3>Regional Economics</h3>
 <ul>
+<p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2023/rm_08_03_23_state_business_cycles">“Fifth District State Business Cycles”</a><br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2023.</li></p>
 <p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2023/rm_03_28_2023_price_setting">“Firm Price-Setting Behavior Amid Elevated Price Growth: Evidence From Our Surveys”</a><br> with Jason Kosakow<br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2023.</li></p>
 <p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2022/rm_04_28_2022_manufacturing">“The Role of Manufacturing in the Rural Fifth District”</a><br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2022.</li></p>
 </ul>
