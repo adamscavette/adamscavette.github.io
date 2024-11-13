@@ -71,6 +71,7 @@ X (Twitter): <a href="https://twitter.com/AdamScavette">@adamscavette</a><br></p
 <p><li><a href="https://www.atlantafed.org/community-development/publications/partners-update/2024/10/24/the-telehealth-divide-digital-inequity-in-rural-health-care-deserts">The Telehealth Divide: Digital Inequity in Rural Health Care Deserts</a><br> with Alvaro Sánchez, Pearse Haley and Sofia Tenorio Martinez<br><strong><i>FRB Atlanta: Partners Update</i></strong>, 2024.</li></p>
 <p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2022/rm_09_15_2022_affordable_connectivity_program">How to Bridge the Digital Divide? Assessing the Affordable Connectivity Program</a><br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2022.</li></p>
 <p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2022/rm_03_03_2022_broadband">The End of the Digital Divide? The Future of Broadband Post-Infrastructure Investment and Jobs Act (IIJA)</a><br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2022.</li></p>
+<p><li><a href="https://www.philadelphiafed.org/-/media/frbp/assets/community-development/reports/broadband-access-computer-use-and-labor-market-attachment-in-philadelphia.pdf">Broadband Access, Computer Use, and Labor Market Attachment in Philadelphia</a><br> with Alvaro Sánchez<br><strong><i>FRB Philadelphia: Community Development Brief</i></strong>, 2020.</li></p>
 </ul>
 
 <h3>Regional Economics</h3>
