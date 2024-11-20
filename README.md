@@ -23,7 +23,6 @@ X (Twitter): <a href="https://twitter.com/AdamScavette">@adamscavette</a><br></p
 <h2><strong>Upcoming Talks</strong></h2>
 
 <ul>
-<p><li>WHY Symposium on Policy Evaluation and Causal Inference, November 19, 2024</li></p>
 <p><li>The Urban Institute, December 2, 2024</li></p>
 <p><li>Federal Reserve Bank of St. Louis, December 4, 2024</li></p>
 <p><li>West Virginia University, April 11, 2025</li></p>
