@@ -31,7 +31,7 @@ X (Twitter): <a href="https://twitter.com/AdamScavette">@adamscavette</a><br></p
 <h2>Working Papers</h2>
 
 <ul>
-<p><li><a href="https://www.richmondfed.org/-/media/RichmondFedOrg/publications/research/working_papers/2024/wp24-05.pdf">“Do Research Universities Recession Proof Their Regions? Evidence from State Flagship College Towns”</a><br> with <a href="https://www.robcalvertjump.com/">Robert Calvert Jump</a><br><i>Federal Reserve Bank of Richmond Working Paper </i>24-05.<br> Revision requested at <strong><i>Journal of Economic Geography</i></strong></li></p>
+<p><li><a href="https://www.richmondfed.org/-/media/RichmondFedOrg/publications/research/working_papers/2024/wp24-05.pdf">Do Research Universities Recession Proof Their Regions? Evidence from State Flagship College Towns</a><br> with <a href="https://www.robcalvertjump.com/">Robert Calvert Jump</a><br><i>Federal Reserve Bank of Richmond Working Paper </i>24-05.<br> Revision requested at <strong><i>Journal of Economic Geography</i></strong></li></p>
 </ul>
 <h2>Peer-Reviewed Publications</h2>
 
