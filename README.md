@@ -13,7 +13,7 @@
 
 <p><strong>The views here are my own and do not necessarily reflect those of the Federal Reserve Bank of Philadelphia or the Federal Reserve System.</strong></p>
 
-<a href="adamscavette_CV.pdf" download>CV (updated November 2024)</a><br>
+<a href="adamscavette_CV.pdf" download>CV</a><br>
 <a href="https://scholar.google.com/citations?user=UWVskVMAAAAJ&hl=en">Google Scholar</a><br>
 <a href="https://ideas.repec.org/f/psc838.html">IDEAS/RePEc</a><br>
 
