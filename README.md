@@ -1,4 +1,4 @@
-![Header](<img src="homepage_banner.png">)
+![Header](<img src="homepage_banner.png"/>)
 
 # Adam Scavette
 
