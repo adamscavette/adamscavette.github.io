@@ -1,4 +1,4 @@
-<img src="homepage_banner.png" width="540" height="400">
+<img src="homepage_banner.png" width="608" height="450">
 
 # Adam Scavette
 
