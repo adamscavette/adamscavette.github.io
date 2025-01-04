@@ -1,4 +1,4 @@
-<img src="homepage_banner.png" width="810" length="600">
+<img src="homepage_banner.png">
 <h2>About Me</h2>
 <img src="/1664665342086.jpg" align="right">
 <p> I am an economic advisor in the community development group at the <a href="https://www.philadelphiafed.org/">Federal Reserve Bank of Philadelphia</a>. My research spans topics within urban, public, labor, and housing economics. 
