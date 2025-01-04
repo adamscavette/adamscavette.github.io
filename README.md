@@ -2,9 +2,8 @@
 
 # Adam Scavette
 
-<img src="/1664665342086.jpg">
-
 <h2>About Me</h2>
+<img src="/1664665342086.jpg" align="right">
 <p> I am an economic advisor in the community development group at the <a href="https://www.philadelphiafed.org/">Federal Reserve Bank of Philadelphia</a>. My research spans topics within urban, public, labor, and housing economics. 
   
 <p> Much of my research focuses on understanding the effects of place-based government policies on labor market outcomes. My research has been published in the leading urban economics field journals, the <a href="https://www.sciencedirect.com/journal/journal-of-urban-economics"><i>Journal of Urban Economics</i></a> and <a href="https://www.sciencedirect.com/journal/regional-science-and-urban-economics"><i>Regional Science and Urban Economics</i></a>, and covered by major media outlets including <i>The New York Times</i> and <i>Bloomberg</i>.</p>
