@@ -1,3 +1,5 @@
+![Header](./[homepage_banner.png])
+
 # Adam Scavette
 
 <img src="/1664665342086.jpg">
