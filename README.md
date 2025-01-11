@@ -46,7 +46,7 @@ X (Twitter): <a href="https://twitter.com/AdamScavette">@adamscavette</a><br></p
 <p><li><a href="https://www.philadelphiafed.org/-/media/frbp/assets/economy/articles/economic-insights/2017/q4/rs_purchasing-power.pdf">Regional Spotlight: Purchasing Power Across the U.S.</a><br>with Elif Sen<br><strong><i>FRB Philadelphia: Economic Insights</i></strong>, 2017.</li></p>
 </ul>
 
-<h2>Federal Reserve Publications: Briefs & Blog Posts</h2>
+<h2>Federal Reserve Publications: Briefs & Blog Posts (By Topic)</h2>
 
 <h3>Place-Based Policies</h3>
 <ul>
