@@ -16,6 +16,7 @@ X (Twitter): <a href="https://twitter.com/AdamScavette">@adamscavette</a><br></p
 <h2><strong>Upcoming Talks</strong></h2>
 
 <ul>
+<p><li>Society of Government Economists Annual Conference (Washington, DC), April 4, 2025</li></p>
 <p><li>West Virginia University, April 11, 2025</li></p>
 </ul>
 
