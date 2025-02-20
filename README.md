@@ -91,6 +91,7 @@ X (Twitter): <a href="https://twitter.com/AdamScavette">@adamscavette</a><br></p
 
 <h3>The Business Cycle</h3>
 <ul>
+<p><li><a href="https://www.richmondfed.org/publications/research/economic_brief/2025/eb_25-07">SOS! Signaling Recessions Earlier</a><br> with John O'Trakoun<br><strong><i>FRB Richmond: Economic Brief</i></strong>, 2025.</li></p>
 <p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2024/rm_09_19_24_are_college_towns_recession_proof">Are College Towns Recession Proof?</a><br> with Robert Calvert Jump<br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2024.</li></p>
 <p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2024/rm_04_04_24_regional_surveys_national_conditions">Do Regional Fed Surveys Reflect National Manufacturing Conditions?</a><br> with Jason Kosakow<br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2024.</li></p>
 <p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2023/rm_08_03_23_state_business_cycles">Fifth District State Business Cycles</a><br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2023.</li></p>
