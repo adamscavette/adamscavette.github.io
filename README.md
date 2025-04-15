@@ -13,12 +13,6 @@
 <p>Email: <a href="mailto:adam.scavette@phil.frb.org">adam.scavette@phil.frb.org</a><br>
 X (Twitter): <a href="https://twitter.com/AdamScavette">@adamscavette</a><br></p>
 
-<h2><strong>Upcoming Talks</strong></h2>
-
-<ul>
-<p><li>West Virginia University, April 11, 2025</li></p>
-</ul>
-
 <h2>Working Papers</h2>
 
 <ul>
