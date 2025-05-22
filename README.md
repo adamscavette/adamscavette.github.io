@@ -5,7 +5,7 @@
 
 <p> As an applied microeconomist, I study topics within urban, public, labor, and housing economics. My research has been published in the <a href="https://www.sciencedirect.com/journal/journal-of-urban-economics"><i>Journal of Urban Economics</i></a>, <a href="https://www.sciencedirect.com/journal/economics-letters"><i>Economics Letters</i></a> and <a href="https://www.sciencedirect.com/journal/regional-science-and-urban-economics"><i>Regional Science and Urban Economics</i></a>, and covered by major media outlets including <i>The New York Times</i> and <i>Bloomberg</i>. <a href="https://www.richmondfed.org/research/people/otrakoun">John O'Trakoun</a> and I developed the <a href="https://www.richmondfed.org/research/national_economy/sos_recession_indicator">SOS weekly recession indicator</a> using unemployment insurance claims data.</p>
 
-<p> I earned my PhD in public policy from Rutgers University-New Brunswick in 2024, where I was awarded the Susan S. Fainstein award for best dissertation. I also hold advanced degrees in engineering and economics from the University of Pennsylvania and the University of Edinburgh, respectively.</p>
+<p> I earned my PhD in public policy from Rutgers University-New Brunswick in 2024, where I received the Susan S. Fainstein award for best dissertation. I also hold advanced degrees in engineering and economics from the University of Pennsylvania and the University of Edinburgh, respectively.</p>
 
 <p><strong>The views here are my own and do not necessarily reflect those of the Federal Reserve Bank of Philadelphia or the Federal Reserve System.</strong></p>
 
