@@ -74,7 +74,7 @@ X (Twitter): <a href="https://twitter.com/AdamScavette">@adamscavette</a><br></p
 <p><li><a href="https://www.philadelphiafed.org/-/media/frbp/assets/economy/reports/research-rap/2014/are-we-in-a-recession.pdf">Are We in a Recession? The ‘Anxious Index Nowcast’ Knows!</a><br><strong><i>FRB Philadelphia: Research Rap Special Report</i></strong>, 2014.</li></p>
 </ul>
 
-<h3>Demographics and Housing</h3>
+<h3>Housing and Demographics</h3>
 <ul>
 <p><li><a href="https://www.richmondfed.org/research/national_economy/macro_minute/2024/multifamily_rent_growth_fifth_district_20241001">What Has Driven Recent Multifamily Rent Growth in Major Fifth District Metros?</a><br> with Sierra Stoney<br><strong><i>FRB Richmond: Macro Minute</i></strong>, 2024.</li></p>
 <p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2024/rm_07_12_24_understanding_immigration">Understanding Immigration in the Fifth District: Where Did International Migrants Settle?</a><br> with Surekha Carpenter<br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2024.</li></p>
