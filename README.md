@@ -56,6 +56,8 @@ X (Twitter): <a href="https://twitter.com/AdamScavette">@adamscavette</a><br></p
 <p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2023/rm_02_03_2023_ARPA">The Rural Reach of ARPA’s Development Grants in the Fifth District</a><br> with Andy Bauer<br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2023.</li></p>
 <p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2022/rm_10_13_2022_chips_science_act">How the CHIPS and Science Act Will Target Economic Development in Distressed Labor Markets</a><br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2022.</li></p>
 <p><li><a href="https://www.richmondfed.org/publications/research/economic_brief/2022/eb_22-28">Casinos and Regional Economies: Has the Game Changed?</a><br><strong><i>FRB Richmond: Economic Brief</i></strong>, 2022.</li></p>
+<p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2022/rm_04_28_2022_manufacturing">The Role of Manufacturing in the Rural Fifth District</a><br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2022.</li></p>
+<p><li><a href="https://www.philadelphiafed.org/-/media/frbp/assets/economy/reports/research-briefs/rb-20161201.pdf">Is Urban Cool Cooling New Jersey’s Job Market?</a><br>with Ethan Haswell<br><strong><i>FRB Philadelphia: Research Brief</i></strong>, 2016.</li></p>
 </ul>
 
 <h3>Broadband</h3>
@@ -76,8 +78,7 @@ X (Twitter): <a href="https://twitter.com/AdamScavette">@adamscavette</a><br></p
 <p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2024/rm_02_02_24_firms_revisiting_prices_less_amid_cooling_inflation">Are Fifth District Firms Revisiting Their Prices Less Often Amid Cooling Inflation?</a><br> with Jason Kosakow<br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2024.</li></p>
 <p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2023/rm_10_05_23_labor_market_recovery_maryland">Parsing the Slow Post-Pandemic Labor Market Recovery of Maryland’s Capital Suburbs</a><br> with Keith Waters<br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2023.</li></p>
 <p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2023/rm_03_28_2023_price_setting">Firm Price-Setting Behavior Amid Elevated Price Growth: Evidence From Our Surveys</a><br> with Jason Kosakow<br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2023.</li></p>
-<p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2022/rm_04_28_2022_manufacturing">The Role of Manufacturing in the Rural Fifth District</a><br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2022.</li></p>
-<p><li><a href="https://www.philadelphiafed.org/-/media/frbp/assets/economy/reports/research-briefs/rb-20161201.pdf">Is Urban Cool Cooling New Jersey’s Job Market?</a><br>with Ethan Haswell<br><strong><i>FRB Philadelphia: Research Brief</i></strong>, 2016.</li></p>
+
 </ul>
 
 <h3>Housing</h3>
