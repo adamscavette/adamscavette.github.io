@@ -63,7 +63,7 @@ X (Twitter): <a href="https://twitter.com/AdamScavette">@adamscavette</a><br></p
 <p><li><a href="https://www.philadelphiafed.org/-/media/frbp/assets/economy/reports/research-briefs/rb-20161201.pdf">Is Urban Cool Cooling New Jersey’s Job Market?</a><br>with Ethan Haswell<br><strong><i>FRB Philadelphia: Research Brief</i></strong>, 2016.</li></p>
 </ul>
 
-<h3>The Business Cycle, Survey Analysis, and Inflation</h3>
+<h3>The Business Cycle and Inflation</h3>
 <ul>
 <p><li><a href="https://www.richmondfed.org/publications/research/economic_brief/2025/eb_25-07">SOS! Signaling Recessions Earlier</a><br> with John O'Trakoun<br><strong><i>FRB Richmond: Economic Brief</i></strong>, 2025.</li></p>
 <p><li><a href="https://www.richmondfed.org/region_communities/regional_data_analysis/regional_matters/2024/rm_09_19_24_are_college_towns_recession_proof">Are College Towns Recession Proof?</a><br> with Robert Calvert Jump<br><strong><i>FRB Richmond: Regional Matters</i></strong>, 2024.</li></p>
