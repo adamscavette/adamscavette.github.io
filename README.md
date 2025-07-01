@@ -19,9 +19,6 @@ X (Twitter): <a href="https://twitter.com/AdamScavette">@adamscavette</a><br></p
 <h2>Working Papers</h2>
 
 <ul>
-<p><li><a>From Campus to Community: The Local Economic Effects of College Closures</a><br> with <a href="https://rri.wvu.edu/who-we-are/staff/daniel-centuriao">Daniel Centuriao</a> and <a href="https://rri.wvu.edu/who-we-are/staff/heather-m-stephens-ph-d">Heather Stephens</a><br></li><i>Please Email for Draft</i></li></p>
-<p><li><a>Reversing the Natural Resource Curse: Coal Mine Closures and Poverty in Appalachia</a><br> with <a href="https://rri.wvu.edu/who-we-are/staff/david-nason">David Nason</a> and <a href="https://rri.wvu.edu/who-we-are/staff/heather-m-stephens-ph-d">Heather Stephens</a><br></li><i>Please Email for Draft</i></li></p>
-<p><li><a>Are Place-Based Policies Capitalized into Local Home Prices? Evidence from England</a><br> with <a href="https://www.robcalvertjump.com/">Robert Calvert Jump</a> and Sierra Stoney<br></li><i>Please Email for Draft</i></li></p>
 <p><li><a href="https://www.richmondfed.org/-/media/RichmondFedOrg/publications/research/working_papers/2024/wp24-05.pdf">Do Research Universities Recession Proof Their Regions? Evidence from State Flagship College Towns</a><br> with <a href="https://www.robcalvertjump.com/">Robert Calvert Jump</a><br><i>Federal Reserve Bank of Richmond Working Paper </i>24-05.<br> Revision submitted at <strong><i>Journal of Economic Geography</i></strong></li></p>
 </ul>
 
@@ -35,6 +32,15 @@ X (Twitter): <a href="https://twitter.com/AdamScavette">@adamscavette</a><br></p
 <p><li><a href="Scavette_EDQ_NJenterprisezones.pdf">The Impact of New Jersey’s Urban Enterprise Zones on Local Employment: A Synthetic Control Approach</a><br> <strong><i>Economic Development Quarterly</i></strong>, 2023.</li></p>
 <p><li><a href="ScavetteGoldsberry_TRR_ExploitingNaturalHub.pdf">Exploiting a Natural Hub: Turning a Stopover into a Destination</a><br>with Leah Goldsberry<br><strong><i>Transportation Research Record: Journal of the Transportation Research Board</i></strong>, 2018.</li></p>
 </ul>
+
+<h2>Works in Progress</h2>
+
+<ul>
+<p><li><a>From Campus to Community: The Local Economic Effects of College Closures</a><br> with <a href="https://rri.wvu.edu/who-we-are/staff/daniel-centuriao">Daniel Centuriao</a> and <a href="https://rri.wvu.edu/who-we-are/staff/heather-m-stephens-ph-d">Heather Stephens</a><br></li><i>Please Email for Draft</i></li></p>
+<p><li><a>Reversing the Natural Resource Curse: Coal Mine Closures and Poverty in Appalachia</a><br> with <a href="https://rri.wvu.edu/who-we-are/staff/david-nason">David Nason</a> and <a href="https://rri.wvu.edu/who-we-are/staff/heather-m-stephens-ph-d">Heather Stephens</a><br></li><i>Please Email for Draft</i></li></p>
+<p><li><a>Are Place-Based Policies Capitalized into Local Home Prices? Evidence from England</a><br> with <a href="https://www.robcalvertjump.com/">Robert Calvert Jump</a> and Sierra Stoney<br></li><i>Please Email for Draft</i></li></p>
+</ul>
+
 <h2>Federal Reserve Publications: Long Articles & Reports</h2>
 
 <ul>
