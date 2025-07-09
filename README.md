@@ -1,6 +1,6 @@
 # Adam Scavette
 <h2>About Me</h2>
-<img src="/headshot_philly_scavette.jpg" align="left" width="148" height="148">
+<img src="/headshot_philly_scavette.jpg" align="left" width="150" height="150">
 <p> I am an economic advisor in the community development group at the <a href="https://www.philadelphiafed.org/">Federal Reserve Bank of Philadelphia</a>.</p> 
 
 <p> As an applied microeconomist, I study topics within urban, public, labor, and housing economics. My research has been published in the <a href="https://www.sciencedirect.com/journal/journal-of-urban-economics"><i>Journal of Urban Economics</i></a>, <a href="https://www.sciencedirect.com/journal/economics-letters"><i>Economics Letters</i></a> and <a href="https://www.sciencedirect.com/journal/regional-science-and-urban-economics"><i>Regional Science and Urban Economics</i></a>, and covered by major media outlets including <i>The New York Times</i> and <i>Bloomberg</i>. <a href="https://www.richmondfed.org/research/people/otrakoun">John O'Trakoun</a> and I developed the <a href="https://www.richmondfed.org/research/national_economy/sos_recession_indicator">SOS weekly recession indicator</a> using unemployment insurance claims data.</p>
