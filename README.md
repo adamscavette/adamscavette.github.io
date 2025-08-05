@@ -21,7 +21,7 @@ X (Twitter): <a href="https://twitter.com/AdamScavette">@adamscavette</a><br></p
 <h2>Peer-Reviewed Publications</h2>
 
 <ul>
-<p><li><a href="https://www.richmondfed.org/-/media/RichmondFedOrg/publications/research/working_papers/2024/wp24-05.pdf">Do Research Universities Recession Proof Their Regions? Evidence from State Flagship College Towns</a><br> with <a href="https://www.robcalvertjump.com/">Robert Calvert Jump</a><br> <strong><i>Journal of Economic Geography</i></strong>, Accepted.</li></p>
+<p><li><a href="https://www.richmondfed.org/-/media/RichmondFedOrg/publications/research/working_papers/2024/wp24-05.pdf">Do Research Universities Recession Proof Their Regions? Evidence from State Flagship College Towns</a><br> with <a href="https://www.robcalvertjump.com/">Robert Calvert Jump</a><br> <strong><i>Journal of Economic Geography</i></strong>, Forthcoming.</li></p>
 <p><li><a href="OTrakounScavette_SOS_EL_2025.pdf">A Better Sahm Rule? Introducing the SOS Recession Indicator</a><br> with <a href="https://www.richmondfed.org/research/people/otrakoun">John O'Trakoun</a><br> <strong><i>Economics Letters</i></strong>, 2025.</li></p>
 <p><li><a href="JumpScavette_NRF_JUE_2024.pdf">JUE Insight: The Labor Market Effects of Place-Based Policies: Evidence from England's Neighbourhood Renewal Fund</a><br> with <a href="https://www.robcalvertjump.com/">Robert Calvert Jump</a><br> <strong><i>Journal of Urban Economics</i></strong>, 2024.</li></p>
 <p><li><a href="Scavette_EDQ_Boeing.pdf">Aerospace Place-Based Policy: The Impact of Boeing on South Carolina's Aerospace Industry</a><br> <strong><i>Economic Development Quarterly</i></strong>, 2024.</li></p>
