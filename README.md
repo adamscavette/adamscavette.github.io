@@ -33,7 +33,7 @@ X (Twitter): <a href="https://twitter.com/AdamScavette">@adamscavette</a><br></p
 <h2>Works in Progress</h2>
 
 <ul>
-<p><li><a>Coal Mine Closures, Local Labor Markets and Poverty in Appalachia</a><br> with <a href="https://rri.wvu.edu/who-we-are/staff/david-nason">David Nason</a> and <a href="https://rri.wvu.edu/who-we-are/staff/heather-m-stephens-ph-d">Heather Stephens</a><br><i>Please Email for Draft</i></li></p>
+<p><li><a>Coal Mine Closures, Local Labor Markets and Poverty</a><br> with <a href="https://rri.wvu.edu/who-we-are/staff/david-nason">David Nason</a> and <a href="https://rri.wvu.edu/who-we-are/staff/heather-m-stephens-ph-d">Heather Stephens</a><br><i>Please Email for Draft</i></li></p>
 <p><li><a>Are Place-Based Policies Capitalized into Local Home Prices? Evidence from England</a><br> with <a href="https://www.robcalvertjump.com/">Robert Calvert Jump</a> and Sierra Stoney<br><i>Please Email for Draft</i></li></p>
 </ul>
 
