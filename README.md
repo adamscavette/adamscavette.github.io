@@ -28,7 +28,7 @@ X (Twitter): <a href="https://twitter.com/AdamScavette">@adamscavette</a><br></p
 <p><li><a href="Scavette_RSUE_AtlanticCity.pdf">The Economic Impact of a Casino Monopoly: Evidence from Atlantic City</a><br> <strong><i>Regional Science and Urban Economics</i></strong>, 2023.</li></p>
 </ul>
 
-<h3>Other Journals: Urban Studies, Policy \& Engineering</h3>
+<h3>Other Journals: Urban Studies, Policy & Engineering</h3>
 <ul>
 <p><li><a href="Scavette_EDQ_Boeing.pdf">Aerospace Place-Based Policy: The Impact of Boeing on South Carolina's Aerospace Industry</a><br> <strong><i>Economic Development Quarterly</i></strong>, 2024.</li></p>
 <p><li><a href="Scavette_EDQ_NJenterprisezones.pdf">The Impact of New Jersey’s Urban Enterprise Zones on Local Employment: A Synthetic Control Approach</a><br> <strong><i>Economic Development Quarterly</i></strong>, 2023.</li></p>
