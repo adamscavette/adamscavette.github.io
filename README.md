@@ -40,7 +40,7 @@ X (Twitter): <a href="https://twitter.com/AdamScavette">@adamscavette</a><br></p
 <ul>
 <p><li><a>The Housing Supply Effects of Environmental Regulation: Evidence from New Jersey’s Highlands Act</a><br> with John Borrmann and <a href="https://speakersbureau.rutgers.edu/speakers/paul-gottlieb">Paul Gottlieb</a><br><i>Please Email for Draft</i></li></p>
 <p><li><a>The Local Economic Impact of Coal Mine Closures</a><br> with <a href="https://rri.wvu.edu/who-we-are/staff/david-nason">David Nason</a> and <a href="https://rri.wvu.edu/who-we-are/staff/heather-m-stephens-ph-d">Heather Stephens</a><br><i>Please Email for Draft</i></li></p>
-<p><li><a>A Neighborhood By Any Other Name? Evidence on the Stigma Effects of Place-Based Policy Target Areas</a><br> with <a href="https://www.robcalvertjump.com/">Robert Calvert Jump</a> and Sierra Stoney<br><i>Please Email for Draft</i></li></p>
+<p><li><a>A Neighborhood by Any Other Name? Evidence on the Stigma Effects of Place-Based Policy Target Areas</a><br> with <a href="https://www.robcalvertjump.com/">Robert Calvert Jump</a> and Sierra Stoney<br><i>Please Email for Draft</i></li></p>
 </ul>
 
 <h2>Federal Reserve Publications: Long Articles & Reports</h2>
