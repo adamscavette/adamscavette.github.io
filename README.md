@@ -46,6 +46,8 @@ X (Twitter): <a href="https://twitter.com/AdamScavette">@adamscavette</a><br></p
 <h2>Federal Reserve Publications: Long Articles & Reports</h2>
 
 <ul>
+<p><li><a href="https://www.philadelphiafed.org/-/media/FRBP/Assets/Community-Development/Reports/report-Oct2025-occupational-exposure-to-generative-ai-in-the-third-federal-reserve-district.pdf">Occupational Exposure to Generative Artificial Intelligence in the Third
+Federal Reserve District</a><br>with Danielle Jenkins and Lei Ding<br><strong><i>FRB Philadelphia: Community Development Report</i></strong>, 2025.</li></p>
 <p><li><a href="https://www.richmondfed.org/publications/research/econ_focus/2024/q1-q2/district_digest">Understanding SNAP’s Role</a><br>with Carrie Cook, Stephanie Norris and Alvaro Sánchez<br><strong><i>FRB Richmond: Econ Focus</i></strong>, 2024.</li></p>
 <p><li><a href="https://www.richmondfed.org/-/media/RichmondFedOrg/publications/research/econ_focus/2023/q2/district_digest.pdf">Measuring Social Capital Across the Fifth District</a><br>with Stephanie Norris<br><strong><i>FRB Richmond: Econ Focus</i></strong>, 2023.</li></p>
 <p><li><a href="https://www.philadelphiafed.org/-/media/frbp/assets/economy/articles/economic-insights/2022/q2/eiq222_rs-making-ends-meet.pdf">Regional Spotlight: Making Ends Meet</a><br><strong><i>FRB Philadelphia: Economic Insights</i></strong>, 2022.</li></p>
