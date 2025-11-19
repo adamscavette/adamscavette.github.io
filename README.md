@@ -17,6 +17,13 @@
 <p>Email: <a href="mailto:adam.scavette@phil.frb.org">adam.scavette@phil.frb.org</a><br>
 X (Twitter): <a href="https://twitter.com/AdamScavette">@adamscavette</a><br></p>
 
+<h2>Works in Progress</h2>
+
+<ul>
+<p><li><a>The Housing Supply Effects of Environmental Regulation: Evidence from New Jersey’s Highlands Act</a><br> with John Borrmann and Paul Gottlieb<br><i>Please Email for Draft</i><br> <strong>Reject & Resubmit at <i>Journal of Environmental Economics and Management</i></strong></li></p>
+<p><li><a>The Local Economic Impact of Coal Mine Closures</a><br> with David Nason and <a href="https://rri.wvu.edu/who-we-are/staff/heather-m-stephens-ph-d">Heather Stephens</a><br><i>Please Email for Draft</i></li></p>
+<p><li><a>A Neighborhood by Any Other Name? Evidence on the Stigma Effects of Place-Based Policy Target Areas</a><br> with <a href="https://www.robcalvertjump.com/">Robert Calvert Jump</a> and Sierra Stoney<br><i>Please Email for Draft</i></li></p>
+</ul>
 
 <h2>Peer-Reviewed Publications</h2>
 
@@ -33,14 +40,6 @@ X (Twitter): <a href="https://twitter.com/AdamScavette">@adamscavette</a><br></p
 <p><li><a href="Scavette_EDQ_Boeing.pdf">Aerospace Place-Based Policy: The Impact of Boeing on South Carolina's Aerospace Industry</a><br> <strong><i>Economic Development Quarterly</i></strong>, 2024.</li></p>
 <p><li><a href="Scavette_EDQ_NJenterprisezones.pdf">The Impact of New Jersey’s Urban Enterprise Zones on Local Employment: A Synthetic Control Approach</a><br> <strong><i>Economic Development Quarterly</i></strong>, 2023.</li></p>
 <p><li><a href="ScavetteGoldsberry_TRR_ExploitingNaturalHub.pdf">Exploiting a Natural Hub: Turning a Stopover into a Destination</a><br>with Leah Goldsberry<br><strong><i>Transportation Research Record: Journal of the Transportation Research Board</i></strong>, 2018.</li></p>
-</ul>
-  
-<h2>Works in Progress</h2>
-
-<ul>
-<p><li><a>The Housing Supply Effects of Environmental Regulation: Evidence from New Jersey’s Highlands Act</a><br> with John Borrmann and Paul Gottlieb<br><i>Please Email for Draft</i><br> <strong>Reject & Resubmit at <i>Journal of Environmental Economics and Management</i></strong></li></p>
-<p><li><a>The Local Economic Impact of Coal Mine Closures</a><br> with David Nason and <a href="https://rri.wvu.edu/who-we-are/staff/heather-m-stephens-ph-d">Heather Stephens</a><br><i>Please Email for Draft</i></li></p>
-<p><li><a>A Neighborhood by Any Other Name? Evidence on the Stigma Effects of Place-Based Policy Target Areas</a><br> with <a href="https://www.robcalvertjump.com/">Robert Calvert Jump</a> and Sierra Stoney<br><i>Please Email for Draft</i></li></p>
 </ul>
 
 <h2>Federal Reserve Publications: Long Articles & Reports</h2>
