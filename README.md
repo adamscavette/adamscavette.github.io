@@ -21,7 +21,7 @@ X (Twitter): <a href="https://twitter.com/AdamScavette">@adamscavette</a><br></p
 <h2>Works in Progress</h2>
 
 <ul>
-<p><li><a>The Housing Supply Effects of Environmental Regulation: Evidence from New Jersey’s Highlands Act</a><br> with John Borrmann and Paul Gottlieb<br><i>Please Email for Draft</i><br> <strong>Reject & Resubmit at <i>Journal of Environmental Economics and Management</i></strong></li></p>
+<p><li><a>The Housing Supply Effects of Environmental Regulation: Evidence from New Jersey’s Highlands Act</a><br> with John Borrmann, Theresa Dunne, and Paul Gottlieb<br><i>Please Email for Draft</i><br> <strong>Reject & Resubmit at <i>Journal of Environmental Economics and Management</i></strong></li></p>
 <p><li><a>The Local Economic Impact of Coal Mine Closures</a><br> with David Nason and <a href="https://rri.wvu.edu/who-we-are/staff/heather-m-stephens-ph-d">Heather Stephens</a><br><i>Please Email for Draft</i></li></p>
 <p><li><a>Smoothing Consumption via Delinquency</a><br> with <a href="https://sites.google.com/view/natee-amorn">Natee Amornsiripanitch</a>, <a href="https://sites.google.com/view/siddharthabiswas">Siddhartha Biswas</a>, and David Wylie<br></li></p>
 <p><li><a>A Neighborhood by Any Other Name? Evidence on the Stigma Effects of Place-Based Policy Target Areas</a><br> with <a href="https://www.robcalvertjump.com/">Robert Calvert Jump</a> and Sierra Stoney<br></li></p>
