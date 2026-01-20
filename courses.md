@@ -1,3 +1,4 @@
+<h2><a href="https://adamscavette.github.io">Home</a> | <a href="https://adamscavette.github.io/research">Research</a> | <a href="https://adamscavette.github.io/courses">Teaching</a></h2>
 <h2>Courses</h2>
 
 <ul>
