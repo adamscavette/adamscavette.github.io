@@ -1,5 +1,6 @@
 # Adam Scavette
 <h2><a href="https://adamscavette.github.io/research">Research</a> | <a href="https://adamscavette.github.io/courses">Teaching</a></h2>
+
 <img src="/headshot_philly_scavette.jpg" align="left" width="150" height="150">
 <p> I am an economic advisor in the community development group at the <a href="https://www.philadelphiafed.org/">Federal Reserve Bank of Philadelphia</a>.</p> 
 
