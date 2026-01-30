@@ -4,7 +4,7 @@
 <ul>
 <p><li><a>The Housing Supply Effects of Environmental Regulation: Evidence from New Jersey’s Highlands Act</a><br> with John Borrmann, Theresa Dunne, and Paul Gottlieb<br><i>Please Email for Draft</i><br> <strong>Resubmitted to <i>Journal of Environmental Economics and Management</i></strong></li></p>
 <p><li><a>The Local Economic Impact of Coal Mine Closures</a><br> with David Nason and <a href="https://rri.wvu.edu/who-we-are/staff/heather-m-stephens-ph-d">Heather Stephens</a><br><i>Please Email for Draft</i></li></p>
-<p><li><a>Smoothing Consumption via Delinquency</a><br> with <a href="https://sites.google.com/view/natee-amorn">Natee Amornsiripanitch</a>, <a href="https://sites.google.com/view/siddharthabiswas">Siddhartha Biswas</a>, and David Wylie<br></li></p>
+<p><li><a>A Revealed Preference Ranking of Debt Repayment</a><br> with <a href="https://sites.google.com/view/natee-amorn">Natee Amornsiripanitch</a>, <a href="https://sites.google.com/view/siddharthabiswas">Siddhartha Biswas</a>, and David Wylie<br></li></p>
 </ul>
 
 <h2>Peer-Reviewed Publications</h2>
