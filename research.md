@@ -3,7 +3,7 @@
 
 <ul>
 <p><li><a>The Local Economic Impact of Coal Mine Closures</a><br> with David Nason and <a href="https://rri.wvu.edu/who-we-are/staff/heather-m-stephens-ph-d">Heather Stephens</a><br><i>Please Email for Draft</i></li></p>
-<p><li><a>Debt Repayment Priority</a><br> with <a href="https://sites.google.com/view/natee-amorn">Natee Amornsiripanitch</a>, <a href="https://sites.google.com/view/siddharthabiswas">Siddhartha Biswas</a>, Amber Lee, and David Wylie<br></li></p>
+<p><li><a>Debt Repayment Priority</a><br> with <a href="https://sites.google.com/view/natee-amorn">Natee Amornsiripanitch</a>, <a href="https://sites.google.com/view/siddharthabiswas">Siddhartha Biswas</a>, Amber Lee, and David Wylie<br><i>Please Email for Draft</i></li></p>
 <p><li><a>The Post-Fentanyl Urbanization of the Opioid Epidemic</a><br> with Alexander Kucera and <a href="https://zachporreca.github.io/">Zachary Porreca</a><br><i>Please Email for Draft</i></li></p>
 <p><li><a>The Housing Supply Effects of Environmental Regulation: Evidence from New Jersey’s Highlands Act</a><br> with John Borrmann, Theresa Dunne, and Paul Gottlieb<br><i>Please Email for Draft</i></li></p>
 </ul>
