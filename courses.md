@@ -1,4 +1,10 @@
 <h2><a href="https://adamscavette.github.io">Home</a> | <a href="https://adamscavette.github.io/research">Research</a> | <a href="https://adamscavette.github.io/courses">Teaching</a></h2>
+<h2>Graduate</h2>
+
+<ul>
+<p><li>ECON 5102: Economic Decisions and Public Policy</a> - Temple University (Fall 2026)</li></p>
+</ul>
+
 <h2>Undergraduate</h2>
 
 <ul>
