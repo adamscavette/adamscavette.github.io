@@ -3,7 +3,7 @@
 
 <ul>
 <p><li><a>The Local Economic Impact of Coal Mine Closures</a><br> with David Nason and <a href="https://rri.wvu.edu/who-we-are/staff/heather-m-stephens-ph-d">Heather Stephens</a><br><i>Please Email for Draft</i></li></p>
-<p><li><a>The Post-Fentanyl Urbanization of the Opioid Epidemic</a><br> with Alexander Kucera and <a href="https://zachporreca.github.io/">Zachary Porreca</a><br><i>Please Email for Draft</i></li></p>
+<p><li><a>The Shifting Geography of the Opioid Epidemic: Evidence from the Fentanyl Era</a><br> with Alexander Kucera and <a href="https://zachporreca.github.io/">Zachary Porreca</a><br><i>Please Email for Draft</i></li></p>
 <p><li><a>Can Environmental Regulations Protect Resources Without Restricting Housing? Evidence from a Dual-Zone Land Use Policy</a><br> with John Borrmann, Theresa Dunne, and Paul Gottlieb<br><i>Please Email for Draft</i></li></p>
 </ul>
 
