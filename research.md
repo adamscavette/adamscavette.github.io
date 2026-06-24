@@ -2,7 +2,7 @@
 <h2>Works in Progress</h2>
 
 <ul>
-<p><li><a href="https://www.philadelphiafed.org/-/media/FRBP/Assets/working-papers/2026/wp26-30.pdf">The Local Economic Impact of Coal Mine Closures</a><br> with David Nason and <a href="https://rri.wvu.edu/who-we-are/staff/heather-m-stephens-ph-d">Heather Stephens</a><br><strong><i>FRB Philadelphia Working Paper 26-30</i></strong></li><br><i>Submitted</i></p>
+<p><li><a href="https://www.philadelphiafed.org/-/media/FRBP/Assets/working-papers/2026/wp26-30.pdf">The Local Economic Impact of Coal Mine Closures</a><br> with David Nason and <a href="https://rri.wvu.edu/who-we-are/staff/heather-m-stephens-ph-d">Heather Stephens</a><br><strong><i>FRB Philadelphia Working Paper 26-30</i></strong><br><i>Submitted</i></p>
 <p><li><a>Can Environmental Regulations Protect Resources Without Restricting Housing? Evidence from a Dual-Zone Land Use Policy</a><br> with John Borrmann, Theresa Dunne, and Paul Gottlieb<br><i>Submitted</i></li></p>
 </ul>
 
