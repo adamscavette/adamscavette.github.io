@@ -2,7 +2,7 @@
 <h2>Graduate</h2>
 
 <ul>
-<p><li>ECON 5102: Economic Decisions and Public Policy - Temple University (Fall 2026)</li></p>
+<p><li><a href="scavette_syllabus_MPP_econ_fall2026.pdf">ECON 5102: Economic Decisions and Public Policy</a>a - Temple University (Fall 2026)</li></p>
 </ul>
 
 <h2>Undergraduate</h2>
